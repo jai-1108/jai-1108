@@ -1,6 +1,6 @@
 <!-- ==================== HEADER ==================== -->
 <h1 align="center">Hi there 👋, I'm Jai Vasi</h1>
-<h3 align="center">MS Data Science @ Stony Brook University | Tech Enthusiast with a focus on Machine Learning, AI & Data Science /h3>
+<h3 align="center">MS Data Science @ Stony Brook University | Tech Enthusiast with a focus on Machine Learning, AI & Data Science </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaivasi1108" target="_blank">
